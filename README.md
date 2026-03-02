@@ -1,4 +1,4 @@
-SmartPredict – Intelligent Vehicle Fault Detection and Priority Alert System
+#SmartPredict – Intelligent Vehicle Fault Detection and Priority Alert System
 
 Overview
 SmartPredict is a real-time vehicle fault detection system that monitors operational parameters such as speed, engine temperature, battery level, tire pressure, and brake condition.
